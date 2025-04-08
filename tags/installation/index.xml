@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Installation on Blowfish</title>
+    <title>Installation on Fidelio</title>
     <link>https://localhost:1313/tags/installation/</link>
-    <description>Recent content in Installation on Blowfish</description>
+    <description>Recent content in Installation on Fidelio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>nuno@n9o.xyz (Blowfish)</managingEditor>
-    <webMaster>nuno@n9o.xyz (Blowfish)</webMaster>
-    <copyright>© 2025 Blowfish</copyright>
+    <managingEditor>nuno@n9o.xyz (Fidelio)</managingEditor>
+    <webMaster>nuno@n9o.xyz (Fidelio)</webMaster>
+    <copyright>© 2025 Fidelio</copyright>
     <atom:link href="https://localhost:1313/tags/installation/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Installation</title>
       <link>https://localhost:1313/docs/installation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>nuno@n9o.xyz (Blowfish)</author>
+      <author>nuno@n9o.xyz (Fidelio)</author>
       <guid>https://localhost:1313/docs/installation/</guid>
       <description>&lt;p&gt;Simply follow the standard Hugo &lt;a href=&#34;https://gohugo.io/getting-started/quick-start/&#34; target=&#34;_blank&#34;&gt;Quick Start&lt;/a&gt; procedure to get up and running quickly.&lt;/p&gt;
 &lt;p&gt;Detailed installation instructions can be found below. Instructions for &lt;a href=&#34;#installing-updates&#34;&gt;updating the theme&lt;/a&gt; are also available.&lt;/p&gt;
@@ -39,7 +39,7 @@
       <title>Getting Started</title>
       <link>https://localhost:1313/docs/getting-started/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>nuno@n9o.xyz (Blowfish)</author>
+      <author>nuno@n9o.xyz (Fidelio)</author>
       <guid>https://localhost:1313/docs/getting-started/</guid>
       <description>&lt;div
   
